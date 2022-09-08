@@ -11,13 +11,13 @@ alternatively use visual studio to clone it
 
 then open with visual studio and build with ctrl+B
 now our application should be at 
-out\build\x64-debug\<selected-build>\replay_viewer.exe
+out\build\x64-debug\\<selected-build>\replay_viewer.exe
 
 # Using it to view replays 
 before using our application you might want to add it to path for eassy acces
 
 to lauch 
-> replay_viewer <replay-out-dir>
+> replay_viewer \<replay-out-dir>
 
 you can use SPACE to switch between recording and replay screenshots 
 you can use LEFT & RIGHT arrow keys to switch between indiviual tests
