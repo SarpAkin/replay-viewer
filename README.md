@@ -1,5 +1,5 @@
 # replay-viewer
-a tool to view replay outputs created by ui-recorder-and-verificator
+a tool to view replay outputs created by **[ui-recorder-and-verificator](https://github.com/SarpAkin/ui-recorder-and-verificator)**
 
 # Requirements
 Qt6 must be installed and added to path in order to build and run this application
@@ -19,6 +19,7 @@ before using our application you might want to add it to path for eassy acces
 to lauch 
 > replay_viewer \<replay-out-dir>
 
-you can use SPACE to switch between recording and replay screenshots 
-you can use LEFT & RIGHT arrow keys to switch between indiviual tests
-you can use UP & DOWN arrow keys to switch between screenshots of a test
+you can use SPACE to switch between recording and replay screenshots <br>
+you can use LEFT & RIGHT arrow keys to switch between indiviual tests <br>
+you can use UP & DOWN arrow keys to switch between screenshots of a test <br>
+ 
